@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Cyber Assistant J.A.R.V.I.S.",
+  "description": "An advanced AI assistant with real-time voice conversation capabilities and access to world information. Designed for helpful and ethical interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
